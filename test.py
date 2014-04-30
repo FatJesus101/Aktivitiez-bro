@@ -1,3 +1,12 @@
+import Pseudo Cod
+import unittest
+
+class TestSequenceFunctions (unittest.TestCase)
+
+
+def test_pcod(self)
+    assert (Psuedo.sort)
+
 import bubble
 import unittest
 
